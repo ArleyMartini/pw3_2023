@@ -9,5 +9,4 @@ public class Pw3Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Pw3Application.class, args);
 	}
-
 }
